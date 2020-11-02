@@ -1,0 +1,4 @@
+- store address as separate fields (country, state, city, street, building, room, zip...)
+- dissable registering with admin role
+- use better logging messages, send more user firendly error msg
+- ? use argon2 instead of bcrypt

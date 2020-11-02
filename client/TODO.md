@@ -1,0 +1,5 @@
+- use formik to handle forms, validation, error msg, etc.
+- show flash messages like success / fail on async operations
+- show loaders on pending/fetching/loading data
+- use some lib/hooks to fetch data from API like SWR
+- implement better state managment
